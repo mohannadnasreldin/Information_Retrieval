@@ -1,4 +1,4 @@
-# SearchEngine
+
 # Information Retrieval
 Tokenization is the process of breaking a piece of text into smaller units called tokens. These tokens can be individual words, phrases, or other meaningful units of text. Tokenization is an important step in natural language processing (NLP) tasks, as it allows the text to be more easily analyzed and processed.
 
